@@ -133,3 +133,31 @@ Intelliguard_PPE_Detection/
 ├── email_9
 │   ├── email_cred.env
 │   ├── emailer.py
+
+
+## Streamlit Output:
+![Main Page - Face_Login](https://github.com/user-attachments/assets/99887912-69c0-4bc5-a051-0f7153293c1d)
+![Main Page - Face_Login1](https://github.com/user-attachments/assets/56eaa271-1cba-4208-928e-e8eda0fab0c1)
+![Main_Page-pin_login](https://github.com/user-attachments/assets/5564eaea-cf6d-410f-bc53-92fd96ad4a58)
+![Main_Page-Pin_Register](https://github.com/user-attachments/assets/1b9beff6-596f-4c77-8b4e-c09610148427)
+![Second_Page1](https://github.com/user-attachments/assets/97049077-3dbf-401c-8317-f159948d1476)
+![Second_Page_2](https://github.com/user-attachments/assets/4a439527-fe31-42ea-afba-84eeb0ad73b2)
+![Second_Page_3](https://github.com/user-attachments/assets/320a6201-7494-47fb-9af4-3331d90d601c)
+![Second_Page_4](https://github.com/user-attachments/assets/1bc7fa8d-a801-4e52-98c7-06a3993b947c)
+![Download_csv_5](https://github.com/user-attachments/assets/f986f880-0e3c-4afd-bf8c-b36f013801a3)
+![Chat_Bot](https://github.com/user-attachments/assets/36ede75a-9dae-4105-b3a9-fae4d0e40c8c)
+![Email_Alerts_6](https://github.com/user-attachments/assets/2c8537b4-d6b2-4d5a-8aa8-f7f4a1c84d61)
+![Email_Alerts_7](https://github.com/user-attachments/assets/3ee1be83-215d-40af-9f36-344b7f6756f8)
+![email_7](https://github.com/user-attachments/assets/8f1f02af-d423-498c-bbbd-aa3bd543d688)
+
+
+
+
+
+
+
+
+
+
+
+
