@@ -5,9 +5,7 @@ ultralytics
 
 # Image Processing
 opencv-python  
-cmake
 pillow
-dlib
 face-recognition
 dlib
 
