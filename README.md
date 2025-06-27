@@ -137,10 +137,11 @@ A computer vision–powered object detection platform to monitor Personal Protec
 
 
 ## Streamlit Output:
-![Main Page - Face_Login](https://github.com/user-attachments/assets/99887912-69c0-4bc5-a051-0f7153293c1d)
-![Main Page - Face_Login1](https://github.com/user-attachments/assets/56eaa271-1cba-4208-928e-e8eda0fab0c1)
 ![Main_Page-pin_login](https://github.com/user-attachments/assets/5564eaea-cf6d-410f-bc53-92fd96ad4a58)
 ![Main_Page-Pin_Register](https://github.com/user-attachments/assets/1b9beff6-596f-4c77-8b4e-c09610148427)
+![Main_Page-Face_Register](https://github.com/user-attachments/assets/86a0c715-32ea-4587-9a82-1a47590695a5)
+![Main Page - Face_Login](https://github.com/user-attachments/assets/99887912-69c0-4bc5-a051-0f7153293c1d)
+![Main Page - Face_Login1](https://github.com/user-attachments/assets/56eaa271-1cba-4208-928e-e8eda0fab0c1)
 ![Second_Page1](https://github.com/user-attachments/assets/97049077-3dbf-401c-8317-f159948d1476)
 ![Second_Page_2](https://github.com/user-attachments/assets/4a439527-fe31-42ea-afba-84eeb0ad73b2)
 ![Second_Page_3](https://github.com/user-attachments/assets/320a6201-7494-47fb-9af4-3331d90d601c)
