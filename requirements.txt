@@ -1,0 +1,39 @@
+# Core ML & Deep Learning
+scikit-learn
+joblib
+ultralytics
+
+# Image Processing
+opencv-python  
+pillow
+face-recognition
+dlib
+
+# Data Handling
+numpy==1.24.4
+pandas
+
+# Visualization
+plotly
+
+# Deployment (Streamlit UI)
+streamlit
+
+# NLP and LLM Integration
+openai
+langchain-openai
+sqlalchemy
+ollama
+
+# AWS SDK
+boto3
+python-dotenv  # For loading .env files
+
+# Email Automation
+email-validator
+
+# Development & Utilities
+ipykernel
+
+
+psycopg2-binary
