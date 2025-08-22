@@ -22,8 +22,8 @@ A computer vision–powered object detection platform to monitor Personal Protec
 - Store uploaded images/videos in AWS S3.
 - Log violation metadata and detailed records to AWS RDS for analysis and reporting.
 
-### 🤖 Phase 5: LLM Chatbot (LangChain + SQL Agent)
-- Enable natural language querying of compliance and violation data stored in RDS using a LangChain-powered chatbot.
+### 🤖 Phase 5: LLM Chatbot (Ollama3.2 Latest)
+- Enable natural language querying of compliance and violation data stored in RDS using a llama-powered chatbot.
 
 ### 📧 Phase 6: Automation & Reporting
 - Send automated email alerts when violations exceed predefined thresholds.
